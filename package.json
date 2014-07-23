@@ -1,0 +1,29 @@
+{
+  "name": "yo-api",
+  "version": "0.0.1",
+  "description": "Yo api wrapper for nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hinderberg/yo-api-node.git"
+  },
+  "keywords": [
+    "yo",
+    "api",
+    "command-line"
+  ],
+  "author": "Hans Magnus Inderberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hinderberg/yo-api-node/issues"
+  },
+  "homepage": "https://github.com/hinderberg/yo-api-node",
+  "dependencies": {
+    "request": "*",
+    "commander": "^2.3.0"
+  },
+  "bin": {
+    "yo": "bin/yo.js"
+  }
+}
