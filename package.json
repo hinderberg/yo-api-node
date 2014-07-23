@@ -1,5 +1,5 @@
 {
-  "name": "yo-api",
+  "name": "yo-api-wrapper",
   "version": "0.0.1",
   "description": "Yo api wrapper for nodejs",
   "main": "index.js",
